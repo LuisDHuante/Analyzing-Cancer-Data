@@ -1,4 +1,4 @@
-# Analyzing Cancer Data
+# A Data-Driven Approach to Understanding Cancer Diagnosis and Classification
 ![Machine-Learning-in-Healthcare_-Features-and-Use-Cases](https://user-images.githubusercontent.com/69726163/235382569-04c85a3c-fea6-4358-a925-5a582b276c9f.jpg)
 
 ## Description

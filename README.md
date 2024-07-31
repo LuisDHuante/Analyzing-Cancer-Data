@@ -1,15 +1,13 @@
-# A Data-Driven Approach to Understanding Cancer Diagnosis and Classification
-![Machine-Learning-in-Healthcare_-Features-and-Use-Cases](https://user-images.githubusercontent.com/69726163/235382569-04c85a3c-fea6-4358-a925-5a582b276c9f.jpg)
-
-## Description
-This project is a comphrenesive machine learning-based analysis of cancer cell data to determine whether the cancer cells are benign or malignant. The dataset contains 570 cancer cells and 30 features, including various characteristics of the cells such as cell size, shape, and texture. The goal is to build a machine learning model that can accurately predict the type of cancer based on these features.
-
-The project is motivated by the need to improve cancer diagnosis and treatment. Accurately identifying the type of cancer is critical for developing an effective treatment plan, and machine learning can be a powerful tool for improving diagnostic accuracy. Additionally, machine learning models can help researchers gain insights into the underlying biology and pathology of cancer, potentially leading to new treatments and therapies.
-
-The key concepts of this project include machine learning, data analysis, and data visualization. Machine learning algorithms are used to train the model to accurately predict the type of cancer based on the features in the dataset. Data analysis techniques are used to explore the dataset, identify any patterns or relationships between the features, and select the most relevant features for the model. Finally, data visualization techniques are used to visualize the data and the results of the machine learning model, making it easier to interpret and understand the results.
-
-By building an accurate machine learning model and using data analysis and visualization techniques, researchers can gain new insights into the biology and pathology of cancer, potentially leading to new treatments and therapies.
-
+# Discovering Consumer Behavior Patterns Through Unsupervised Learning
 
 ## Affiliation
-Final project for the Supervised Learning 2022-2 class, at Universidad Nacional Autónoma de México (UNAM), in its ENES Morelia Campus, as part of its Bs. in Data Science career plan.
+Final project for the Unsupervised Learning class at the National Autonomous University of Mexico (UNAM), ENES Morelia Campus, as part of the Bachelor’s in Data Science program.
+
+## Introduction
+In the retail sector, understanding consumer behavior is crucial for designing effective marketing strategies. This project explores the application of unsupervised learning techniques to segment consumer behavior and enhance marketing decision-making. By analyzing a dataset that includes various metrics on consumer purchasing behaviors and preferences, the goal is to identify patterns and segment customers into meaningful groups.
+
+## Project
+The analysis revealed two main segments of consumers with notable differences in their purchasing behaviors and responses to marketing campaigns. The first segment consists of high-income consumers who prefer luxury products and tend to shop in physical stores and through catalogs. The second segment comprises lower-income consumers who are more inclined to make discount-driven purchases and frequently visit the website. These findings illustrate how unsupervised learning can assist in designing more targeted and effective marketing strategies tailored to the specific needs and behaviors of each segment.
+
+## Documentation
+The complete project is available in the .pdf file of this repository, as well as in the Jupyter Notebook (.ipynb) file, which contains all the source code.

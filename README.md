@@ -1,4 +1,5 @@
 # Discovering Consumer Behavior Patterns Through Unsupervised Learning
+![imagen](https://github.com/user-attachments/assets/fcd793e1-9b03-43fa-94d0-f05f9c79c7e6)
 
 ## Affiliation
 Final project for the Unsupervised Learning class at the National Autonomous University of Mexico (UNAM), ENES Morelia Campus, as part of the Bachelor’s in Data Science program.
